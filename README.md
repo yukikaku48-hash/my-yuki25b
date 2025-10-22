@@ -1,1 +1,1 @@
-# My yuki25b
+# my-yuki25b

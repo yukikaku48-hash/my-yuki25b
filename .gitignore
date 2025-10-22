@@ -1,2 +1,5 @@
 .DS_Store\n__pycache__/\n*.log\n*.tmp
 .venv/
+.venv/
+__pycache__/
+*.pyc
